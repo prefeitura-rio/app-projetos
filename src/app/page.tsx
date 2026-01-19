@@ -99,7 +99,7 @@ export default function Home() {
         {/* Header Section */}
         <div className="flex flex-col items-center text-center">
           <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
-            Catálogo de Produtos
+            Catálogo de Produtos Test
           </h1>
           <p className="mt-4 max-w-2xl text-base text-slate-600">
             Conheça as soluções digitais que modernizam a gestão pública e transformam a experiência do cidadão carioca.
